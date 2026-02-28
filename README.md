@@ -11,11 +11,10 @@ A backend service that identifies and links customer contacts across multiple pu
 
 ## Hosted Endpoint
 
-> **Base URL**: `https://your-app.onrender.com`
+> **Base URL**: `https://bitespeed-keh0.onrender.com`
 >
 > **POST** `/identify`
 
-_(Update this after deploying to Render)_
 
 ## Local Setup
 

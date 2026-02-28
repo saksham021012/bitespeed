@@ -21,7 +21,7 @@ A backend service that identifies and links customer contacts across multiple pu
 ### Prerequisites
 
 - Node.js 18+
-- PostgreSQL running locally
+- PostgreSQL 
 
 ### Steps
 

@@ -27,7 +27,7 @@ A backend service that identifies and links customer contacts across multiple pu
 
 ```bash
 # 1. Clone & install
-git clone <repo-url>
+git clone https://github.com/saksham021012/bitespeed.git
 cd bitespeed
 npm install
 
